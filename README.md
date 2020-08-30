@@ -3,7 +3,7 @@ simple examples using MATLAB Robotics System toolbox
 ## Requirements
 * MATLAB 2020a
 * MATLAB Robotics System Toolbox
-## Available robots in the toolbox
+## Available robot models in the toolbox
 * abbIrb120
 * abbIrb120T
 * abbIrb1600
