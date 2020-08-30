@@ -3,6 +3,7 @@ simple examples using MATLAB Robotics System toolbox
 ## Requirements
 * MATLAB 2020a
 * MATLAB Robotics System Toolbox
+* Add `exampleHelperRigidBodyTreeAnimation.m` to your PATH if having trouble with `jog_joint_animation.m`
 ## Available robot models in the toolbox
 * abbIrb120
 * abbIrb120T
